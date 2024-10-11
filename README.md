@@ -1,3 +1,6 @@
+# Usage with YMIR packets' files
+https://github.com/TrinityCore/ymir
+
 WowPacketParser (WPP)
 =====================
 
